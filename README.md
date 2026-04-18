@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Unyime ! 👋 Pronounced: ooh - you - meh<br>I'm a Computer Science student on a mission to break into the tech world—one error at a time. Welcome to my journey!</p>
+<p align="left">My name is Unyime ! 👋 Pronounced: ooh - you - meh<br>I'm a Computer Science student on a mission to break into the tech world, one error at a time. Welcome to my journey!</p>
 
 ###
 
